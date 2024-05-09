@@ -109,11 +109,11 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 $ ./sem.o 
+![alt text](320180414-1be08668-c40b-4380-a344-4215f033bd29.png)
 
-![image](https://github.com/MARXINLIJO/Linux-IPC-Semaphores/assets/145742540/1be08668-c40b-4380-a344-4215f033bd29)
 
 $ ipcs
+![alt text](<Screenshot 2024-05-09 210531.png>)
 
-![image](https://github.com/MARXINLIJO/Linux-IPC-Semaphores/assets/145742540/5f431c26-d490-45df-976a-1a47be256db7)
 # RESULT:
 The program is executed successfully.
